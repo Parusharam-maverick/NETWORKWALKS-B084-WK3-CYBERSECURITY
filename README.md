@@ -1,4 +1,4 @@
-# NETWORKWALKS-B084-WK3-CYBERSECURITY
+# NETWORKWALKS-B084-WK3-CYBERSECURITy
 **Password Security, Password Auditing & Hash Analysis using John the Ripper**
 
 ## 1. Introduction
@@ -9,7 +9,7 @@ This week's focus was on password security, password auditing, hash extraction, 
 
 I explored how password auditing tools work, how password hashes can be extracted from encrypted PDF documents, and how wordlists are used to test password candidates in controlled lab environments.
 
-The practical exercises also included password-related Capture The Flag (CTF) challenges to strengthen my understanding of real-world cybersecurity concepts.
+The practical exercises also included password-related Capture The Flag (CTF) challenges to strengthen my understanding of cybersecurity concepts.
 
 ## 2. Objectives
 
@@ -71,8 +71,6 @@ Explored Johnny, the graphical frontend for John the Ripper.
 
 Understood how the graphical interface simplifies password auditing operations and displays results.
 
-![John the Ripper](john.png)
-
 ### 4.2 Password Hash Extraction and Analysis
 
 **Step 1: Creating Password-Protected PDF Files**
@@ -101,8 +99,6 @@ Used custom wordlists to test password candidates against the extracted hashes.
 
 Successfully recovered passwords from deliberately vulnerable practice samples.
 
-![PDF Hash Extraction](pdf2john.png)
-
 ### 4.3 Practical CTF Challenges
 
 Worked through password-related Capture The Flag (CTF) challenges to apply the concepts learned during the exercises.
@@ -116,8 +112,6 @@ Activities included:
 - Improving command-line skills and practical problem-solving abilities.
 
 These exercises helped connect theoretical password security concepts with practical cybersecurity scenarios.
-
-![CTF Challenges](ctf.png)
 
 ## 5. Key Concepts Learned
 
@@ -167,19 +161,6 @@ I also participated in practical CTF challenges and captured multiple training f
 Overall, these exercises improved my understanding of password-verification mechanisms, hash formats, dictionary-based attacks, and the importance of strong password practices.
 
 This week provided valuable hands-on experience in understanding how password auditing works and how security professionals identify weak password practices.
-
-## 9. Evidence Collected
-
-Screenshots of the practical exercises are included in this repository.
-
-| File | Description |
-|---|---|
-| `john.png` | John the Ripper command-line interface |
-| `johnny.png` | Johnny graphical frontend |
-| `pdf2john.png` | PDF password hash extraction |
-| `hash-analysis.png` | Extracted hash analysis |
-| `wordlist.png` | Wordlist-based password auditing |
-| `ctf.png` | Practical CTF challenge results |
 
 ---
 
